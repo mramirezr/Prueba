@@ -32,7 +32,7 @@ operations = {
     "e" : exponent,
     "%" : modulus
 }
-
+#comentario
 def calculator():
     num1 = float(input("What's the first number?: "))
 
